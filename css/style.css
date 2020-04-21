@@ -16,7 +16,19 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #0000FF;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .user-view {
+  padding: 200px 10px 0px;
+}
+
+.sidenav li > a {
+  font-size: 18px;
 }
 
 .parallax-container {
